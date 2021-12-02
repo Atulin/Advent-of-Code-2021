@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1-SonarSweep", "D1-SonarSw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1B-SlidingSonarSweep", "D1B-SlidingSonarSweep\D1B-SlidingSonarSweep.csproj", "{04E4E0E4-D3F5-4F47-9DA0-C375F5BEB0E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2-Dive", "D2-Dive\D2-Dive.csproj", "{D07E62E9-93D0-4F35-AEB6-089DD5A60A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2B-DiveWithAim", "D2B-DiveWithAim\D2B-DiveWithAim.csproj", "{FBC6513C-8735-483D-A531-0A6751F9BAC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{04E4E0E4-D3F5-4F47-9DA0-C375F5BEB0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E4E0E4-D3F5-4F47-9DA0-C375F5BEB0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E4E0E4-D3F5-4F47-9DA0-C375F5BEB0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07E62E9-93D0-4F35-AEB6-089DD5A60A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07E62E9-93D0-4F35-AEB6-089DD5A60A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07E62E9-93D0-4F35-AEB6-089DD5A60A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07E62E9-93D0-4F35-AEB6-089DD5A60A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
