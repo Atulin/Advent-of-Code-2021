@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2-Dive", "D2-Dive\D2-Dive.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2B-DiveWithAim", "D2B-DiveWithAim\D2B-DiveWithAim.csproj", "{FBC6513C-8735-483D-A531-0A6751F9BAC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3-BinaryDiagnostic", "D3-BinaryDiagnostic\D3-BinaryDiagnostic.csproj", "{1EE22F63-391F-4C14-B467-BBFE3E25D61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3B-BinaryDiagnosticO2CO2", "D3B-BinaryDiagnosticO2CO2\D3B-BinaryDiagnosticO2CO2.csproj", "{7EDECBC6-ABC6-4F8D-923A-6E829A5354FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC6513C-8735-483D-A531-0A6751F9BAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE22F63-391F-4C14-B467-BBFE3E25D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE22F63-391F-4C14-B467-BBFE3E25D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE22F63-391F-4C14-B467-BBFE3E25D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE22F63-391F-4C14-B467-BBFE3E25D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDECBC6-ABC6-4F8D-923A-6E829A5354FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDECBC6-ABC6-4F8D-923A-6E829A5354FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDECBC6-ABC6-4F8D-923A-6E829A5354FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDECBC6-ABC6-4F8D-923A-6E829A5354FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
